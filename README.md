@@ -5,11 +5,12 @@
 * `apt install git curl php wget -y`
 * `github.com/Jayachandran19/cyber_phish.git`
 * `cd cyber_phish`
+* `chmod +x cyber_phish`
 #### > Run : `bash cyber_phish.sh`
 
 ## Single Command :
 ```
-apt update ; apt install git curl wget php -y ; git clone git://github.com/Jayachandran19/cyber_phish.git ; cd zphisher ; bash zphisher.sh
+apt update ; apt install git curl wget php -y ; git clone git://github.com/Jayachandran19/cyber_phish.git ; cd cyber_phish ; chmod +x cyber_phish ; bash cyber_phish.sh
 ```
 
 ### <<< If you copy , Then Give me The Credits >>>
