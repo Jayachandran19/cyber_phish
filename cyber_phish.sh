@@ -411,11 +411,11 @@ about() {
 clear
 banner
 printf "\e[0m\n"
-printf "\e[0m\e[92m  AUTHOR \e[0m\e[91m     :\e[0m\e[93m JAYACHANDRAN\e[0m\e[91m[\e[0m\e[93m Jayachandran19 \e[0m\e[91m]\e[0m\n"
+printf "\e[0m\e[92m  AUTHOR \e[0m\e[91m     :\e[0m\e[93m JAYACHANDRAN\e[0m\e[91m[\e[0m\e[93m cyber_clowns_👾 \e[0m\e[91m]\e[0m\n"
 printf "\e[0m\n"
 printf "\e[0m\e[92m  GITHUB \e[0m\e[91m     : \e[0m\e[96mhttps://github.com/Jayachandran19\e[0m\n"
 printf "\e[0m\n"
-printf "\e[0m\e[92m  Social \e[0m\e[91m     : \e[0m\e[96mhttps://https://www.instagram.com/_.jayachandran._\e[0m\n"
+printf "\e[0m\e[92m  Social \e[0m\e[91m     : \e[0m\e[96mhttps://www.instagram.com/_.jayachandran._\e[0m\n"
 printf "\e[0m\n"
 printf "\e[0m\e[92m  Version \e[0m\e[91m    : \e[0m\e[93m1 Beta\e[0m\n"
 printf "\e[0m\n"
